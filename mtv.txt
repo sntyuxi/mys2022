@@ -17,7 +17,7 @@
 
 {"key":"csp_biubiu_六度TV","name":"六度TV(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/六度TV.json"},
 {"key":"csp_biubiu_花猫TV","name":"花猫TV(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/花猫TV.json"},
-(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/lezhutv.json"},
+{"key":"csp_biubiu_乐猪TV","name":"乐猪TV(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/lezhutv.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/jubaibai.json"},
 {"key":"csp_xpath_jLgyy","name":"蓝光影院(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath//lgyy.json"},
 {"key":"csp_xpath_农民影视","name":"农民影视(xp)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/农民影视.json"},
