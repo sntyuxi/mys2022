@@ -22,9 +22,8 @@
 {"key":"csp_biubiu_骚火电影","name":"骚火电影(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/骚火电影.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/lezhutv.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/jubaibai.json"},
-{"key":"csp_xpath_jLgyy","name":"蓝光影院(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath//lgyy.json"},
-{"key":"csp_xpath_农民影视","name":"农民影视(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/农民影视.json"},
-
+{"key":"csp_xpath_Lgyy","name":"蓝光影院(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath//lgyy.json"},
+{"key":"csp_xpath_nmys","name":"农民影视(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/nmys2.json"},
 
 {"key":"诺讯资源","name":"诺讯资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/"},
 {"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/"},
