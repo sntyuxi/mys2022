@@ -15,21 +15,15 @@
 {"key":"csp_Blixq","name":"戏曲","type":3,"api":"csp_Blixq"},
 {"key":"360_spider","name":"360影视","type":3,"api":"csp_SP360"},
 
-{"key":"csp_biubiu_六度TV","name":"六度TV(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/六度TV.json"},
-
-{"key":"csp_biubiu_花猫TV","name":"花猫TV(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/花猫TV.json"},
-
-{"key":"csp_biubiu_看一看","name":"看一看(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/看一看影视.json"},
-
-{"key":"csp_biubiu_口袋影院","name":"口袋影院(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/口袋影院.json"},
-
-{"key":"csp_biubiu_骚火电影","name":"骚火电影(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontent.com/mys202299/mtv/main/骚火电影.json"},
-{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/lezhutv.json"},
-{"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/jubaibai.json"},
-
-{"key":"csp_xpath_Lgyy","name":"蓝光影院(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath//lgyy.json"},
-
-{"key":"csp_xpath_nmys","name":"农民影视(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontent.com/mys202299/mao/main/sub/xpath/nmys2.json"},
+{"key":"csp_biubiu_六度TV","name":"六度TV(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontents.com/mys202299/mtv/main/六度TV.json"},
+{"key":"csp_biubiu_花猫TV","name":"花猫TV(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontents.com/mys202299/mtv/main/花猫TV.json"},
+{"key":"csp_biubiu_看一看","name":"看一看(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontents.com/mys202299/mtv/main/看一看影视.json"},
+{"key":"csp_biubiu_口袋影院","name":"口袋影院(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontents.com/mys202299/mtv/main/口袋影院.json"},
+{"key":"csp_biubiu_骚火电影","name":"骚火电影(xp)","type":3,"api":"csp_XBiubiu","ext":"https://raw.githubusercontents.com/mys202299/mtv/main/骚火电影.json"},
+{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","ext":"https://raw.githubusercontents.com/mys202299/mao/main/sub/xpath/lezhutv.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","ext":"https://raw.githubusercontents.com/mys202299/mao/main/sub/xpath/jubaibai.json"},
+{"key":"csp_xpath_Lgyy","name":"蓝光影院(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontents.com/mys202299/mao/main/sub/xpath//lgyy.json"},
+{"key":"csp_xpath_nmys","name":"农民影视(XPF)","type":3,"api":"csp_XPathFilter","ext":"https://raw.githubusercontents.com/mys202299/mao/main/sub/xpath/nmys2.json"},
 
 {"key":"诺讯资源","name":"诺讯资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/"},
 {"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/"},
@@ -45,16 +39,12 @@
 {"name":"jsrxvr","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
 {"name":"spchat,"type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
 
-
 {"name":"Parwix","type":1,"url":"https://vip.parwix.com:4433/player/?url="},
 {"name":"追剧猫","type":1,"url":"https://jx.zjmiao.com/?url="},
 {"name":"人人迷","type":1,"url":"https://jx.renrenmi.cc/?url="}
 ],
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL215czIwMjI5OS9tdHYvbWFpbi9saXZlLnR4dA=="
-]}]}],
-
+"lives":[],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","longteng","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","xueren","xfyun","ziqie","wuduzy","CL4K","xuanfeng","1920l"],
 
